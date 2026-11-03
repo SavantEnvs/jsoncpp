@@ -1,0 +1,59 @@
+settings: 213
+object_value {
+  settings: 4096
+  name: ""
+  value {
+    array_value {
+      value {
+        number_value {
+          integer_value {
+            value: 0
+          }
+          float_value {
+            value: 9.9464647281957328e+86
+          }
+        }
+      }
+      value {
+        number_value {
+          integer_value {
+            value: 0
+          }
+          exponent_value {
+            base: 4096
+            exponent: -2130706432
+            use_uppercase: false
+          }
+        }
+      }
+      value {
+        array_value {
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              float_value {
+                value: 9.9464647281957328e+86
+              }
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              exponent_value {
+                base: 4096
+                exponent: -2130706432
+                use_uppercase: false
+              }
+            }
+          }
+          value {
+          }
+        }
+      }
+    }
+  }
+}

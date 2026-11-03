@@ -1,0 +1,7 @@
+settings: 4
+object_value {
+  settings: 4
+  name: "00&5216\\nobject_value {\\n  settings: 0\\n  name: \\\"&\\\"\\n  value {\\n    object_value {\\n      settings: 0\\n      name: \\\"&\\\"\\n      value {\\n        array_value {\\n          value {\\n            boolean_value {\\n              value: trgs: 4\\n                  name: \\\"oolean_value {\\\\n   ~~\\\"\\n                  v\237\223\212\232\337\204\243\212                    array_value {\\n                    }\\n                  }\\n                }\\n              }\\n       &"
+  value {
+  }
+}

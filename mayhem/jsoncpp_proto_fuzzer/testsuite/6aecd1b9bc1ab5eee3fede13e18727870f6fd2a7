@@ -1,0 +1,65 @@
+settings: 4
+object_value {
+  settings: 4
+  name: "\""
+  value {
+    array_value {
+      value {
+        object_value {
+          settings: 4
+          name: "failIfE\'tra"
+          value {
+            object_value {
+              settings: 4
+              name: "failIfE\'tra"
+              value {
+                object_value {
+                  settings: 4
+                  name: "failIfE\'tra"
+                  value {
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      value {
+      }
+      value {
+        object_value {
+          settings: 0
+          name: "ilIfE\'tra"
+          value {
+            object_value {
+              settings: 4
+              name: "failIfE\'tra"
+              value {
+                object_value {
+                  settings: 4
+                  name: "failIfE\'tra"
+                  value {
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      value {
+        object_value {
+          settings: 0
+          name: "failIfE\'tra"
+          value {
+            object_value {
+              settings: 0
+              name: "failIfE\'tra"
+              value {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

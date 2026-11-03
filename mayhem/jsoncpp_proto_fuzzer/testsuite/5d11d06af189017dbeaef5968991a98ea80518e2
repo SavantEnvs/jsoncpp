@@ -1,0 +1,19 @@
+settings: 0
+object_value {
+  settings: -536870912
+  name: "\\/"
+  value {
+    object_value {
+      settings: 0
+      name: "\\/"
+      value {
+        object_value {
+          settings: 0
+          name: "\\/"
+          value {
+          }
+        }
+      }
+    }
+  }
+}

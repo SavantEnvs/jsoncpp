@@ -1,0 +1,10 @@
+settings: 0
+object_value {
+  settings: 4
+  name: "&\\n      value: true]n    }\\n  }\\n}\\n\"\n  value"
+  value {
+    string_value {
+      value: "-------------------------------------------------------------------------"
+    }
+  }
+}

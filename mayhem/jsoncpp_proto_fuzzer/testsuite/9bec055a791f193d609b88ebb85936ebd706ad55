@@ -1,0 +1,84 @@
+settings: 0
+object_value {
+  settings: 0
+  name: "&"
+  value {
+    array_value {
+      value {
+        object_value {
+          settings: 0
+          name: "&"
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                  }
+                  value {
+                    boolean_value {
+                      value: false
+                    }
+                  }
+                  value {
+                    boolean_value {
+                      value: false
+                    }
+                  }
+                }
+              }
+              value {
+                boolean_value {
+                  value: false
+                }
+              }
+              value {
+                boolean_value {
+                  value: false
+                }
+              }
+            }
+          }
+        }
+      }
+      value {
+        object_value {
+          settings: 0
+          name: ""
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                    string_value {
+                      value: ""
+                    }
+                  }
+                  value {
+                    boolean_value {
+                      value: false
+                    }
+                  }
+                  value {
+                    boolean_value {
+                      value: false
+                    }
+                  }
+                }
+              }
+              value {
+                boolean_value {
+                  value: false
+                }
+              }
+              value {
+                boolean_value {
+                  value: false
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

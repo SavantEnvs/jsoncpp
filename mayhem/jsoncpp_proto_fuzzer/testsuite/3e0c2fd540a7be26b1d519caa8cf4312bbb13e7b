@@ -1,0 +1,49 @@
+settings: 58
+object_value {
+  settings: 0
+  name: "\""
+  value {
+    object_value {
+      settings: 0
+      name: "failI\'tra"
+      value {
+        object_value {
+          settings: 0
+          name: "failIfE\'tra"
+          value {
+            object_value {
+              settings: 4
+              name: "failIfE\'tra"
+              value {
+                object_value {
+                  settings: 0
+                  name: "failIfE\'tra"
+                  value {
+                    object_value {
+                      settings: 0
+                      name: "failIfE\'tra"
+                      value {
+                        object_value {
+                          settings: 4
+                          name: "failIfE\'tra"
+                          value {
+                            object_value {
+                              settings: 0
+                              name: "&\\n     \'value \\t:eurn value"
+                              value {
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,198 @@
+settings: 0
+object_value {
+  settings: 0
+  name: "&"
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+          }
+          value {
+            array_value {
+              value {
+              }
+              value {
+              }
+            }
+          }
+          value {
+          }
+        }
+      }
+      value {
+        array_value {
+          value {
+            array_value {
+              value {
+              }
+              value {
+              }
+              value {
+              }
+              value {
+              }
+              value {
+              }
+            }
+          }
+          value {
+          }
+          value {
+            array_value {
+              value {
+              }
+              value {
+              }
+            }
+          }
+          value {
+          }
+        }
+      }
+      value {
+        array_value {
+          value {
+          }
+          value {
+            array_value {
+              value {
+              }
+              value {
+                array_value {
+                  value {
+                  }
+                  value {
+                  }
+                }
+              }
+              value {
+              }
+            }
+          }
+        }
+      }
+      value {
+      }
+      value {
+        array_value {
+          value {
+          }
+          value {
+          }
+          value {
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 34359738368
+              }
+            }
+          }
+          value {
+          }
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                  }
+                  value {
+                    array_value {
+                      value {
+                        boolean_value {
+                          value: true
+                        }
+                      }
+                      value {
+                      }
+                    }
+                  }
+                  value {
+                  }
+                }
+              }
+              value {
+              }
+              value {
+              }
+              value {
+                array_value {
+                  value {
+                  }
+                  value {
+                    array_value {
+                      value {
+                      }
+                      value {
+                      }
+                    }
+                  }
+                  value {
+                  }
+                }
+              }
+            }
+          }
+          value {
+          }
+          value {
+            array_value {
+              value {
+              }
+              value {
+              }
+              value {
+                array_value {
+                  value {
+                  }
+                  value {
+                  }
+                  value {
+                  }
+                  value {
+                  }
+                }
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+              }
+              value {
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+              }
+              value {
+                array_value {
+                  value {
+                  }
+                }
+              }
+              value {
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                    string_value {
+                      value: "\026"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

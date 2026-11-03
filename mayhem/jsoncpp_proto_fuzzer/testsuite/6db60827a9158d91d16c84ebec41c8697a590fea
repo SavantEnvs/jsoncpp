@@ -1,0 +1,136 @@
+settings: 0
+object_value {
+  settings: 37
+  name: "&"
+  value {
+    object_value {
+      settings: 0
+      name: "&"
+      value {
+        array_value {
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              exponent_value {
+                base: 0
+                exponent: 0
+                use_uppercase: true
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+                number_value {
+                  integer_value {
+                    value: 0
+                  }
+                  exponent_value {
+                    base: 0
+                    exponent: 0
+                    use_uppercase: false
+                  }
+                }
+              }
+              value {
+                number_value {
+                  integer_value {
+                    value: 0
+                  }
+                  exponent_value {
+                    base: 0
+                    exponent: 0
+                    use_uppercase: true
+                  }
+                }
+              }
+              value {
+              }
+              value {
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                    number_value {
+                      integer_value {
+                        value: 0
+                      }
+                      exponent_value {
+                        base: 0
+                        exponent: 0
+                        use_uppercase: false
+                      }
+                    }
+                  }
+                  value {
+                    array_value {
+                      value {
+                        number_value {
+                          integer_value {
+                            value: 0
+                          }
+                          exponent_frac_value {
+                            base: 0
+                            exponent: 0
+                            use_uppercase: false
+                          }
+                        }
+                      }
+                      value {
+                      }
+                      value {
+                        number_value {
+                          integer_value {
+                            value: 0
+                          }
+                          exponent_frac_value {
+                            base: 3
+                            exponent: 0
+                            use_uppercase: false
+                          }
+                        }
+                      }
+                      value {
+                      }
+                    }
+                  }
+                  value {
+                    array_value {
+                      value {
+                      }
+                    }
+                  }
+                  value {
+                    number_value {
+                      integer_value {
+                        value: 0
+                      }
+                      exponent_value {
+                        base: 0
+                        exponent: 0
+                        use_uppercase: false
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

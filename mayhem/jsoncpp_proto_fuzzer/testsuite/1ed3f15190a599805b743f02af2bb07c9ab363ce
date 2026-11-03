@@ -1,0 +1,15 @@
+settings: 0
+object_value {
+  settings: 4
+  name: ""
+  value {
+    number_value {
+      integer_value {
+        value: 0
+      }
+      float_value {
+        value: 8.68142178714627e-43
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+settings: 83886079
+object_value {
+  settings: 0
+  name: "&"
+  value {
+    object_value {
+      settings: 0
+      name: ""
+      value {
+        array_value {
+          value {
+            array_value {
+            }
+          }
+          value {
+            object_value {
+              settings: 0
+              name: "%"
+              value {
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+              }
+              value {
+                array_value {
+                  value {
+                    array_value {
+                      value {
+                      }
+                      value {
+                        object_value {
+                          settings: 0
+                          name: "%"
+                          value {
+                          }
+                        }
+                      }
+                    }
+                  }
+                  value {
+                    array_value {
+                      value {
+                      }
+                      value {
+                      }
+                      value {
+                      }
+                    }
+                  }
+                }
+              }
+              value {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

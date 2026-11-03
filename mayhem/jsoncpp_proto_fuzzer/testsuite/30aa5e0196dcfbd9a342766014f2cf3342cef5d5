@@ -1,0 +1,12 @@
+settings: 4
+object_value {
+  settings: 0
+  name: ""
+  value {
+    number_value {
+      integer_value {
+        value: -9223372036854775808
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+settings: 0
+object_value {
+  settings: 4
+  name: "\"allowTrailingComma"
+  value {
+    object_value {
+      settings: 0
+      name: ""
+      value {
+        string_value {
+          value: "/"
+        }
+      }
+    }
+  }
+}

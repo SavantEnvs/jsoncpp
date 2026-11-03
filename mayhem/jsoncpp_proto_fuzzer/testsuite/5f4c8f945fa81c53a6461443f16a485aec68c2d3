@@ -1,0 +1,67 @@
+settings: 6619237
+object_value {
+  settings: 0
+  name: "&google.protobuf.UInt32Value"
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+            object_value {
+              settings: 0
+              name: ""
+              value {
+                array_value {
+                  value {
+                    array_value {
+                      value {
+                      }
+                      value {
+                        array_value {
+                          value {
+                            array_value {
+                              value {
+                                string_value {
+                                  value: "\\\\205\\\\205\\\"\\n  value {\\n    object_value {\\n      settings: 4\\n      name: \\\"\\\"\\n      value {\\n        obj%"
+                                }
+                              }
+                              value {
+                                string_value {
+                                  value: "\\\\205\\\\205\\\"\\n  value {\\n    object_value {\\n      settings: 4\\n      name: \\\"\\\"\\n      value {\\n        obj%"
+                                }
+                              }
+                            }
+                          }
+                          value {
+                          }
+                        }
+                      }
+                      value {
+                      }
+                    }
+                  }
+                  value {
+                    number_value {
+                      integer_value {
+                        value: 0
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+          value {
+            boolean_value {
+              value: true
+            }
+          }
+          value {
+          }
+        }
+      }
+      value {
+      }
+    }
+  }
+}

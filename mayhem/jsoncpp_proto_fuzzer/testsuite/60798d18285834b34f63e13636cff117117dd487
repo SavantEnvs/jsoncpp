@@ -1,0 +1,13 @@
+settings: 0
+object_value {
+  settings: 0
+  name: "\""
+  value {
+    object_value {
+      settings: 0
+      name: "\204\202\017\000@Q\000\000"
+      value {
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+settings: 0
+object_value {
+  settings: 0
+  name: ""
+  value {
+    array_value {
+      value {
+        number_value {
+          integer_value {
+            value: 0
+          }
+          float_value {
+            value: 2.17388884170148e-322
+          }
+        }
+      }
+      value {
+        array_value {
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              float_value {
+                value: 2.17388884170148e-322
+              }
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              float_value {
+                value: 2.17388884170148e-322
+              }
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              float_value {
+                value: 2.17388884170148e-322
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

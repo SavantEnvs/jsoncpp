@@ -1,0 +1,140 @@
+settings: 0
+object_value {
+  settings: 4
+  name: "&"
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+            boolean_value {
+              value: true
+            }
+          }
+          value {
+            array_value {
+              value {
+              }
+              value {
+                array_value {
+                  value {
+                    number_value {
+                      integer_value {
+                        value: 0
+                      }
+                      float_value {
+                        value: 8.68142178714627e-43
+                      }
+                    }
+                  }
+                }
+              }
+              value {
+                number_value {
+                  integer_value {
+                    value: 0
+                  }
+                  float_value {
+                    value: 8.68142178714627e-43
+                  }
+                }
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+                number_value {
+                  integer_value {
+                    value: 0
+                  }
+                  float_value {
+                    value: 8.68142178714627e-43
+                  }
+                }
+              }
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              float_value {
+                value: 8.68142178714627e-43
+              }
+            }
+          }
+        }
+      }
+      value {
+        string_value {
+          value: ""
+        }
+      }
+      value {
+        array_value {
+          value {
+            boolean_value {
+              value: true
+            }
+          }
+          value {
+            array_value {
+              value {
+              }
+              value {
+                array_value {
+                  value {
+                    number_value {
+                      integer_value {
+                        value: 0
+                      }
+                      float_value {
+                        value: 8.68142178714627e-43
+                      }
+                    }
+                  }
+                }
+              }
+              value {
+                number_value {
+                  integer_value {
+                    value: 0
+                  }
+                  float_value {
+                    value: 8.68142178714627e-43
+                  }
+                }
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+                number_value {
+                  integer_value {
+                    value: 0
+                  }
+                  float_value {
+                    value: 8.68142178714627e-43
+                  }
+                }
+              }
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              float_value {
+                value: 8.68142178714627e-43
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

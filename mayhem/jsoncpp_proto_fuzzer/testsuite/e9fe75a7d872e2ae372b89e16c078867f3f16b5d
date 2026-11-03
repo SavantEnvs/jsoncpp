@@ -1,0 +1,23 @@
+settings: 0
+object_value {
+  settings: 0
+  name: "A"
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+            string_value {
+              value: "\""
+            }
+          }
+        }
+      }
+      value {
+        string_value {
+          value: "failIfExtralIfExtra"
+        }
+      }
+    }
+  }
+}

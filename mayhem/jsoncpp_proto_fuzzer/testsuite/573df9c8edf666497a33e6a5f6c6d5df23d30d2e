@@ -1,0 +1,37 @@
+settings: 4
+object_value {
+  settings: 0
+  name: ""
+  value {
+    array_value {
+      value {
+        object_value {
+          settings: 0
+          name: "&\\n     \'value \\t:eurn value"
+          value {
+            object_value {
+              settings: 4
+              name: "&\\n     \'value \\t:eurn value"
+              value {
+              }
+            }
+          }
+        }
+      }
+      value {
+        object_value {
+          settings: 0
+          name: "&\\n     \'value \\t:eurn value"
+          value {
+            object_value {
+              settings: 4
+              name: "&\\n     \'value \\t:eurn value"
+              value {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

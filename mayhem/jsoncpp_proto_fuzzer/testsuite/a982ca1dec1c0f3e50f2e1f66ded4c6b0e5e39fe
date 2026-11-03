@@ -1,0 +1,17 @@
+settings: 0
+object_value {
+  settings: 4
+  name: ""
+  value {
+    number_value {
+      integer_value {
+        value: 0
+      }
+      exponent_value {
+        base: -7
+        exponent: 65536
+        use_uppercase: true
+      }
+    }
+  }
+}

@@ -1,0 +1,167 @@
+settings: 0
+object_value {
+  settings: 0
+  name: "&"
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+            array_value {
+              value {
+              }
+              value {
+              }
+            }
+          }
+          value {
+          }
+          value {
+            array_value {
+              value {
+              }
+              value {
+                string_value {
+                  value: ""
+                }
+              }
+              value {
+              }
+            }
+          }
+        }
+      }
+      value {
+        array_value {
+          value {
+            array_value {
+              value {
+              }
+              value {
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                  }
+                }
+              }
+              value {
+                array_value {
+                  value {
+                    boolean_value {
+                      value: true
+                    }
+                  }
+                  value {
+                  }
+                }
+              }
+              value {
+              }
+            }
+          }
+        }
+      }
+      value {
+      }
+      value {
+        array_value {
+          value {
+          }
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                  }
+                  value {
+                  }
+                }
+              }
+              value {
+                array_value {
+                  value {
+                    object_value {
+                      settings: 0
+                      name: ""
+                      value {
+                      }
+                    }
+                  }
+                  value {
+                  }
+                  value {
+                  }
+                }
+              }
+            }
+          }
+          value {
+            boolean_value {
+              value: true
+            }
+          }
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                  }
+                  value {
+                    array_value {
+                      value {
+                      }
+                      value {
+                      }
+                    }
+                  }
+                  value {
+                  }
+                }
+              }
+              value {
+                array_value {
+                  value {
+                    object_value {
+                      settings: 0
+                      name: ""
+                      value {
+                      }
+                    }
+                  }
+                  value {
+                  }
+                  value {
+                  }
+                }
+              }
+              value {
+                array_value {
+                  value {
+                  }
+                  value {
+                    array_value {
+                      value {
+                        boolean_value {
+                          value: true
+                        }
+                      }
+                      value {
+                      }
+                    }
+                  }
+                  value {
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

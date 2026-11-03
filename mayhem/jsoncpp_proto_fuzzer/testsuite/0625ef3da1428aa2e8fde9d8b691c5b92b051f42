@@ -1,0 +1,63 @@
+settings: 538968068
+object_value {
+  settings: 4128
+  name: "&"
+  value {
+    array_value {
+      value {
+        number_value {
+          integer_value {
+            value: 4
+          }
+          exponent_value {
+            base: 4128
+            exponent: 4128
+            use_uppercase: true
+          }
+        }
+      }
+      value {
+        array_value {
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              exponent_value {
+                base: 4096
+                exponent: 33554432
+                use_uppercase: true
+              }
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              exponent_value {
+                base: 4128
+                exponent: 4128
+                use_uppercase: true
+              }
+            }
+          }
+          value {
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              exponent_value {
+                base: 4128
+                exponent: 4128
+                use_uppercase: true
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

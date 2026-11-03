@@ -1,0 +1,109 @@
+settings: 4
+object_value {
+  settings: 4
+  name: "&"
+  value {
+    array_value {
+      value {
+        object_value {
+          settings: 0
+          name: ""
+          value {
+            object_value {
+              settings: 0
+              name: ""
+              value {
+                object_value {
+                  settings: 4
+                  name: "&"
+                  value {
+                    object_value {
+                      settings: 4
+                      name: "&"
+                      value {
+                        object_value {
+                          settings: 4
+                          name: "&"
+                          value {
+                            object_value {
+                              settings: 0
+                              name: "&"
+                              value {
+                                object_value {
+                                  settings: 4
+                                  name: "&"
+                                  value {
+                                    object_value {
+                                      settings: 0
+                                      name: ""
+                                      value {
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      value {
+        object_value {
+          settings: 0
+          name: ""
+          value {
+            object_value {
+              settings: 4
+              name: ""
+              value {
+                object_value {
+                  settings: 0
+                  name: ""
+                  value {
+                    object_value {
+                      settings: 4
+                      name: "&"
+                      value {
+                        object_value {
+                          settings: 4
+                          name: "&"
+                          value {
+                            object_value {
+                              settings: 0
+                              name: "&"
+                              value {
+                                object_value {
+                                  settings: 4
+                                  name: "&"
+                                  value {
+                                    object_value {
+                                      settings: 0
+                                      name: ""
+                                      value {
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+settings: 58
+object_value {
+  settings: 0
+  name: "\""
+  value {
+    object_value {
+      settings: 0
+      name: "failIfE\'tra"
+      value {
+        string_value {
+          value: "failIfExtra"
+        }
+      }
+    }
+  }
+}

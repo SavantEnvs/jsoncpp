@@ -1,0 +1,58 @@
+settings: 134217728
+object_value {
+  settings: 33554436
+  name: "failIfExtra "
+  value {
+    array_value {
+      value {
+        object_value {
+          settings: 0
+          name: ""
+          value {
+            object_value {
+              settings: 0
+              name: ""
+              value {
+                object_value {
+                  settings: 4
+                  name: ""
+                  value {
+                    object_value {
+                      settings: 0
+                      name: "\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377"
+                      value {
+                        object_value {
+                          settings: 0
+                          name: ""
+                          value {
+                            object_value {
+                              settings: 4
+                              name: "&"
+                              value {
+                                object_value {
+                                  settings: 4
+                                  name: "&5\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\"\n  value {\n    object_value {\n      settings: 4\n      name: \"\"\n      value {\n        object_value {\n          settings: 0\n          name: \"\"\n          value {\n          }\n        }\n     "
+                                  value {
+                                    string_value {
+                                      value: "\000\000\000\000\000\000\000\000"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      value {
+      }
+    }
+  }
+}

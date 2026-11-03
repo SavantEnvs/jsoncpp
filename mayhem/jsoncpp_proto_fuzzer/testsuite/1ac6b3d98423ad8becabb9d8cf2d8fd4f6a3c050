@@ -1,0 +1,23 @@
+settings: 0
+object_value {
+  settings: 0
+  name: ""
+  value {
+    array_value {
+      value {
+        number_value {
+          integer_value {
+            value: 65526
+          }
+        }
+      }
+      value {
+        number_value {
+          integer_value {
+            value: 64739244643450880
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+settings: 844890170
+object_value {
+  settings: -1929379836
+  name: ""
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+            array_value {
+              value {
+                number_value {
+                  integer_value {
+                    value: 0
+                  }
+                  float_value {
+                    value: 6.02760087926321e-322
+                  }
+                }
+              }
+              value {
+                array_value {
+                  value {
+                    number_value {
+                      integer_value {
+                        value: 0
+                      }
+                      float_value {
+                        value: 6.02760087926321e-322
+                      }
+                    }
+                  }
+                  value {
+                    number_value {
+                      integer_value {
+                        value: 0
+                      }
+                      float_value {
+                        value: 6.02760087926321e-322
+                      }
+                    }
+                  }
+                  value {
+                    array_value {
+                      value {
+                        number_value {
+                          integer_value {
+                            value: 0
+                          }
+                          float_value {
+                            value: 6.02760087926321e-322
+                          }
+                        }
+                      }
+                      value {
+                      }
+                      value {
+                        string_value {
+                          value: "2"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

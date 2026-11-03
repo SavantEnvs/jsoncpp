@@ -1,0 +1,132 @@
+settings: 1024
+object_value {
+  settings: 0
+  name: ""
+  value {
+    array_value {
+      value {
+        string_value {
+          value: ""
+        }
+      }
+      value {
+        array_value {
+          value {
+            string_value {
+              value: ""
+            }
+          }
+          value {
+            object_value {
+              settings: 0
+              name: ""
+              value {
+                array_value {
+                  value {
+                    string_value {
+                      value: ""
+                    }
+                  }
+                  value {
+                    array_value {
+                      value {
+                        string_value {
+                          value: ""
+                        }
+                      }
+                      value {
+                        string_value {
+                          value: ""
+                        }
+                      }
+                      value {
+                        string_value {
+                          value: ""
+                        }
+                      }
+                      value {
+                        string_value {
+                          value: ""
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      value {
+        array_value {
+          value {
+            string_value {
+              value: ""
+            }
+          }
+          value {
+            string_value {
+              value: ""
+            }
+          }
+          value {
+            string_value {
+              value: ""
+            }
+          }
+          value {
+            string_value {
+              value: ""
+            }
+          }
+        }
+      }
+      value {
+        object_value {
+          settings: 0
+          name: ""
+          value {
+            array_value {
+              value {
+                string_value {
+                  value: "7"
+                }
+              }
+              value {
+                array_value {
+                  value {
+                    string_value {
+                      value: ""
+                    }
+                  }
+                  value {
+                    string_value {
+                      value: ""
+                    }
+                  }
+                  value {
+                    string_value {
+                      value: ""
+                    }
+                  }
+                  value {
+                    string_value {
+                      value: ""
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      value {
+        string_value {
+          value: ""
+        }
+      }
+      value {
+      }
+    }
+  }
+}

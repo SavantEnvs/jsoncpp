@@ -1,0 +1,67 @@
+settings: 0
+object_value {
+  settings: 4
+  name: "&"
+  value {
+    object_value {
+      settings: 4
+      name: "&settings: 0\nobject_value {\n  settings: 0\n  name: \"&\"\n  value {\n    array_value {\n      value {\n        string_value {\n          value: \"\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\\034\"\n        }\n      }\n    }\n  }\n}\n"
+      value {
+        object_value {
+          settings: 0
+          name: "&"
+          value {
+            object_value {
+              settings: 4
+              name: "&"
+              value {
+                object_value {
+                  settings: 4
+                  name: "&"
+                  value {
+                    object_value {
+                      settings: 0
+                      name: ""
+                      value {
+                        object_value {
+                          settings: 4
+                          name: ""
+                          value {
+                            object_value {
+                              settings: 4
+                              name: ""
+                              value {
+                                object_value {
+                                  settings: 0
+                                  name: "&\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000"
+                                  value {
+                                    object_value {
+                                      settings: 4
+                                      name: "&settings: 65536\nobject_value {\n  settings: 65536\n  name: \"\\006\"\n  value {\n    object_value {\n      settings: 65536\n      name: \"\\006\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\"\n      value {\n        boolean_value {\n          value: true\n        }\n      }\n    }\n  }\n}\n"
+                                      value {
+                                        object_value {
+                                          settings: 4
+                                          name: ""
+                                          value {
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+settings: 0
+object_value {
+  settings: 0
+  name: ""
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+            object_value {
+              settings: 0
+              name: ""
+              value {
+                object_value {
+                  settings: 32768
+                  name: "&5\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\"\n  value {\n    object_value {\n      settings: 4\n      name: \"\"\n      value {\n        object_value {\n          setame:tings: 0\n          name: \"\"\n          value {\n          }\n        }\n     "
+                  value {
+                  }
+                }
+              }
+            }
+          }
+          value {
+            object_value {
+              settings: 0
+              name: "\000\000\000\000\000\000\000\000\000\000\000\000\000\000"
+              value {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

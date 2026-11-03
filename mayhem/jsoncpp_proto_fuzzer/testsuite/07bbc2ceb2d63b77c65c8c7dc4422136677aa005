@@ -1,0 +1,37 @@
+settings: 58
+object_value {
+  settings: 0
+  name: "\""
+  value {
+    object_value {
+      settings: 0
+      name: "failIfE\'tra"
+      value {
+        object_value {
+          settings: 58
+          name: "&"
+          value {
+            object_value {
+              settings: 4
+              name: ""
+              value {
+                object_value {
+                  settings: 0
+                  name: "&5\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\20   05\"\n  allowTrailingbject_value {\n      settings< 4\n      name: \"\"\n      value {\n        object_value {\n          settings: 0\n          name: \"\"\n          value {\n          }\n        }\n     "
+                  value {
+                    array_value {
+                      value {
+                      }
+                      value {
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

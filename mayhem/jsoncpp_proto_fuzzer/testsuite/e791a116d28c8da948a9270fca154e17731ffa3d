@@ -1,0 +1,139 @@
+settings: 0
+object_value {
+  settings: 0
+  name: "&"
+  value {
+    object_value {
+      settings: 0
+      name: "&"
+      value {
+        array_value {
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              exponent_frac_value {
+                base: 0
+                exponent: 0
+                use_uppercase: true
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+                number_value {
+                  integer_value {
+                    value: 0
+                  }
+                  exponent_frac_value {
+                    base: 0
+                    exponent: 0
+                    use_uppercase: true
+                  }
+                }
+              }
+              value {
+              }
+              value {
+                number_value {
+                  integer_value {
+                    value: 17179869184
+                  }
+                  exponent_frac_value {
+                    base: 0
+                    exponent: 0
+                    use_uppercase: true
+                  }
+                }
+              }
+              value {
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                    number_value {
+                      integer_value {
+                        value: 17179869184
+                      }
+                      exponent_frac_value {
+                        base: 0
+                        exponent: 0
+                        use_uppercase: true
+                      }
+                    }
+                  }
+                  value {
+                    array_value {
+                      value {
+                        number_value {
+                          integer_value {
+                            value: 0
+                          }
+                          exponent_frac_value {
+                            base: 0
+                            exponent: 0
+                            use_uppercase: true
+                          }
+                        }
+                      }
+                      value {
+                      }
+                      value {
+                        array_value {
+                          value {
+                            number_value {
+                              integer_value {
+                                value: 0
+                              }
+                              exponent_frac_value {
+                                base: 0
+                                exponent: 0
+                                use_uppercase: true
+                              }
+                            }
+                          }
+                        }
+                      }
+                      value {
+                      }
+                    }
+                  }
+                  value {
+                    number_value {
+                      integer_value {
+                        value: 0
+                      }
+                      exponent_frac_value {
+                        base: 0
+                        exponent: 0
+                        use_uppercase: true
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              exponent_frac_value {
+                base: 5.87747175e-39
+                exponent: 0
+                use_uppercase: true
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

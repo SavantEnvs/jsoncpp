@@ -1,0 +1,7 @@
+settings: 0
+object_value {
+  settings: 0
+  name: "&\\nobject_value {\\\\n  settings: 0\\\\n  name: \\\\\\\"0&\\\\\\\"\\\\n  value {\\\\n    object_value {\\\\n      settings: 23812\\\\n      name: \\\\\\\"0&\\\\\\\"\\\\n      value {\\\\n        array_value {\\\\n          value {\\\\n            string_value {\\\\n              value: \\\\\\\"LiteR\\\\\\\"\\\\n            }\\\\n          }\\\\n        }\\\\n      }\\\\n    }\\\\n  }\\\\n}\\\\n\\\"\\n  value {\\n    object_value {\\n      settings: 0\\n      name: \\\"\\\\337\\\"\\n      value {\\n        array_value {\\n          value {\\n            array_value {\\n              value {\\n                object_value {\\n                  settings: 0\\n                  name: \\\"%settings: 4\\\\nobject_value {\\\\n  settings: 0\\\\n  name: \\\\\\\"0&\\\\\\\"\\\\n  value {\\\\n    object_value {\\\\n      settings: 23812\\\\n      name: \\\\\\\"0&\\\\\\\":\\\\n      value {\\\\n        array_value {\\\\n          value {\\\\n            string_value {\\\\n              value: \\\\\\\"LiteR\\\\\\\"\\\\n            }\\\\n          }\\\\n        }\\\\n      }\\\\n  ------------------------------------------------\"\n        }\n      }\n      value {\n        string_value {\n       "
+  value {
+  }
+}

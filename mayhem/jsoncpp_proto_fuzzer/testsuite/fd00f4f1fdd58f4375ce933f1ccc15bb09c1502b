@@ -1,0 +1,24 @@
+settings: 131076
+object_value {
+  settings: 0
+  name: "&_value {\n  settings: 4\n  name: \"A\\205\\205\\205\\205\\205\\205\\2\0205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205lue {\\n        array_valueNoSideEffectsvalue {\\n            string_value {\\n              value: \\\"LiteR\\\"\\n         {\n      settings: 4\n      name: \"\"\n      value {\n        object_value {\n  "
+  value {
+    object_value {
+      settings: 117440513
+      name: "&_value {\n  settings: 4\n  name: \"A\\205\\205\\205\\205\\205\\205\\2\0205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\"\n  value {\n    object_vahue {\n      settings: 4\n      name: \"\"\n      value {\n        object_value {\n  "
+      value {
+        object_value {
+          settings: 0
+          name: "&&"
+          value {
+            number_value {
+              integer_value {
+                value: 576460752303423488
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

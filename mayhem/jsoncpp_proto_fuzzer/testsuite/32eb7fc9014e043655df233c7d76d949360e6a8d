@@ -1,0 +1,24 @@
+settings: 0
+object_value {
+  settings: 7563118
+  name: "&&"
+  value {
+    array_value {
+      value {
+        object_value {
+          settings: 0
+          name: "&5\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\"\n  value {\n    object_value {\n      settings: 4\n      name: \"\"\n      value {\n        object_value {\n          settings: 0\n          name: \"\"\n          value {\n          }\n        }\n     "
+          value {
+          }
+        }
+      }
+      value {
+      }
+      value {
+        string_value {
+          value: "\000\000\t\000\000\000\000\000"
+        }
+      }
+    }
+  }
+}

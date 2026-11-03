@@ -1,0 +1,25 @@
+settings: 0
+object_value {
+  settings: 0
+  name: "\\/"
+  value {
+    object_value {
+      settings: 224
+      name: "\\/"
+      value {
+        object_value {
+          settings: 4
+          name: "\\/"
+          value {
+            object_value {
+              settings: 469762048
+              name: "\\/"
+              value {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

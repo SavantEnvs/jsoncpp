@@ -1,0 +1,22 @@
+settings: 29440
+object_value {
+  settings: 0
+  name: "&"
+  value {
+    array_value {
+      value {
+        object_value {
+          settings: 0
+          name: "5\\"
+          value {
+          }
+        }
+      }
+      value {
+        string_value {
+          value: "failIfExtra"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+settings: 20
+object_value {
+  settings: 0
+  name: ":"
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              exponent_value {
+                base: 16
+                exponent: 512
+                use_uppercase: true
+              }
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              exponent_value {
+                base: 16
+                exponent: 512
+                use_uppercase: true
+              }
+            }
+          }
+          value {
+          }
+        }
+      }
+      value {
+      }
+    }
+  }
+}

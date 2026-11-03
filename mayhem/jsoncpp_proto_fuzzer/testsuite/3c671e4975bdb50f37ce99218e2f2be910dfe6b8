@@ -1,0 +1,94 @@
+settings: 16777090
+object_value {
+  settings: 32772
+  name: ""
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+            array_value {
+              value {
+              }
+              value {
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+                string_value {
+                  value: "\014\000\001\000\000\020"
+                }
+              }
+              value {
+              }
+            }
+          }
+        }
+      }
+      value {
+        array_value {
+          value {
+          }
+        }
+      }
+      value {
+      }
+      value {
+        array_value {
+          value {
+          }
+          value {
+            string_value {
+              value: "K\000\000\000"
+            }
+          }
+          value {
+          }
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                  }
+                  value {
+                  }
+                  value {
+                    string_value {
+                      value: "\""
+                    }
+                  }
+                  value {
+                    array_value {
+                      value {
+                        array_value {
+                          value {
+                            string_value {
+                              value: "//"
+                            }
+                          }
+                          value {
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+              value {
+              }
+              value {
+                boolean_value {
+                  value: true
+                }
+              }
+              value {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

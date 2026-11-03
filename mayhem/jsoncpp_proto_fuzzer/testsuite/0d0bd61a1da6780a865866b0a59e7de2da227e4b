@@ -1,0 +1,10 @@
+settings: 0
+object_value {
+  settings: 0
+  name: ""
+  value {
+    boolean_value {
+      value: true
+    }
+  }
+}

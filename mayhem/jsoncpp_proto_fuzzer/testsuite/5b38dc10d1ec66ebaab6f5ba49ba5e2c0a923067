@@ -1,0 +1,13 @@
+settings: 0
+object_value {
+  settings: 0
+  name: "\""
+  value {
+    object_value {
+      settings: 4
+      name: "::::::::::::::::::::::::::::::::::::::::::::::::::::::\"\n          value {\n            object_value {\n              settings: 4\n              name: \"&\\\\n     \\\'value \""
+      value {
+      }
+    }
+  }
+}

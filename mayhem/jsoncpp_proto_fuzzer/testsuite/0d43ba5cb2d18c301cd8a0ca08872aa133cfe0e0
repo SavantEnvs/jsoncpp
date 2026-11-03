@@ -1,0 +1,110 @@
+settings: 16777090
+object_value {
+  settings: 0
+  name: "2"
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+          }
+          value {
+            string_value {
+              value: "\"                }\n                    }\n                  "
+            }
+          }
+          value {
+            string_value {
+              value: "88888888888888888888888888888888888888888888888888888888888888888888888888888888888"
+            }
+          }
+        }
+      }
+      value {
+      }
+      value {
+        array_value {
+          value {
+          }
+          value {
+            array_value {
+              value {
+              }
+              value {
+                string_value {
+                  value: "//"
+                }
+              }
+            }
+          }
+          value {
+          }
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                    array_value {
+                      value {
+                      }
+                      value {
+                        number_value {
+                          integer_value {
+                            value: 493921239040
+                          }
+                        }
+                      }
+                      value {
+                        string_value {
+                          value: "\"                }\n                    }\n                  "
+                        }
+                      }
+                      value {
+                        array_value {
+                          value {
+                            array_value {
+                              value {
+                              }
+                              value {
+                              }
+                              value {
+                                string_value {
+                                  value: "//\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306"
+                                }
+                              }
+                              value {
+                              }
+                              value {
+                                number_value {
+                                  integer_value {
+                                    value: 493921239040
+                                  }
+                                }
+                              }
+                              value {
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                  value {
+                  }
+                  value {
+                    array_value {
+                    }
+                  }
+                }
+              }
+              value {
+              }
+              value {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

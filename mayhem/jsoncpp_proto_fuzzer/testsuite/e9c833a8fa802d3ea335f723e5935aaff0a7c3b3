@@ -1,0 +1,119 @@
+settings: 0
+object_value {
+  settings: 0
+  name: "2"
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+          }
+          value {
+            string_value {
+              value: "\"                }\n                    }\n                  "
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 493921239040
+              }
+            }
+          }
+        }
+      }
+      value {
+      }
+      value {
+      }
+      value {
+        array_value {
+          value {
+          }
+          value {
+            array_value {
+              value {
+              }
+              value {
+                string_value {
+                  value: "//"
+                }
+              }
+            }
+          }
+          value {
+          }
+          value {
+            object_value {
+              settings: 0
+              name: "2"
+              value {
+                array_value {
+                  value {
+                    array_value {
+                      value {
+                      }
+                      value {
+                        string_value {
+                          value: "\"                }\n                    }\n                  "
+                        }
+                      }
+                      value {
+                        number_value {
+                          integer_value {
+                            value: 493921239040
+                          }
+                        }
+                      }
+                    }
+                  }
+                  value {
+                  }
+                  value {
+                  }
+                  value {
+                    array_value {
+                      value {
+                      }
+                      value {
+                        array_value {
+                          value {
+                          }
+                          value {
+                            string_value {
+                              value: "//"
+                            }
+                          }
+                        }
+                      }
+                      value {
+                      }
+                      value {
+                        object_value {
+                          settings: 0
+                          name: ""
+                          value {
+                          }
+                        }
+                      }
+                    }
+                  }
+                  value {
+                    string_value {
+                      value: "\"                }\n                    }\n                  "
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      value {
+        boolean_value {
+          value: false
+        }
+      }
+    }
+  }
+}

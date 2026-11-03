@@ -1,0 +1,100 @@
+settings: 10
+object_value {
+  settings: 4
+  name: "%"
+  value {
+    object_value {
+      settings: 4
+      name: " "
+      value {
+        object_value {
+          settings: 0
+          name: ""
+          value {
+            object_value {
+              settings: 0
+              name: ""
+              value {
+                object_value {
+                  settings: 4
+                  name: ""
+                  value {
+                    object_value {
+                      settings: 4
+                      name: "&"
+                      value {
+                        object_value {
+                          settings: 0
+                          name: ""
+                          value {
+                            object_value {
+                              settings: 0
+                              name: ""
+                              value {
+                                array_value {
+                                  value {
+                                    object_value {
+                                      settings: 0
+                                      name: "%"
+                                      value {
+                                        object_value {
+                                          settings: 4
+                                          name: " "
+                                          value {
+                                            object_value {
+                                              settings: 4
+                                              name: ""
+                                              value {
+                                                object_value {
+                                                  settings: 4
+                                                  name: ""
+                                                  value {
+                                                    object_value {
+                                                      settings: 0
+                                                      name: ""
+                                                      value {
+                                                        array_value {
+                                                          value {
+                                                          }
+                                                          value {
+                                                            array_value {
+                                                              value {
+                                                              }
+                                                              value {
+                                                                string_value {
+                                                                  value: "\""
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                          value {
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

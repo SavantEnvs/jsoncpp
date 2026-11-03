@@ -1,0 +1,107 @@
+settings: 4
+object_value {
+  settings: 1946157056
+  name: "t"
+  value {
+    array_value {
+      value {
+        number_value {
+          integer_value {
+            value: 0
+          }
+          float_value {
+            value: 3.3846065602060728e+125
+          }
+        }
+      }
+      value {
+        number_value {
+          integer_value {
+            value: 0
+          }
+          float_value {
+            value: 3.3846065602060728e+125
+          }
+        }
+      }
+      value {
+        array_value {
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              float_value {
+                value: 3.3846065602060728e+125
+              }
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              float_value {
+                value: 3.3846065602060728e+125
+              }
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              float_value {
+                value: 3.3846065602060728e+125
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+                number_value {
+                  integer_value {
+                    value: 16775936
+                  }
+                  float_value {
+                    value: 3.3846065602060728e+125
+                  }
+                }
+              }
+              value {
+              }
+              value {
+                array_value {
+                  value {
+                  }
+                  value {
+                    number_value {
+                      integer_value {
+                        value: 0
+                      }
+                      float_value {
+                        value: 3.3846065602060728e+125
+                      }
+                    }
+                  }
+                  value {
+                    number_value {
+                      integer_value {
+                        value: 0
+                      }
+                      float_value {
+                        value: 3.3846065602060728e+125
+                      }
+                    }
+                  }
+                  value {
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

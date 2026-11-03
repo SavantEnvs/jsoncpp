@@ -1,0 +1,92 @@
+settings: 59
+object_value {
+  settings: 262144
+  name: ""
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+            string_value {
+              value: ""
+            }
+          }
+          value {
+          }
+          value {
+            array_value {
+              value {
+                string_value {
+                  value: ""
+                }
+              }
+              value {
+                array_value {
+                  value {
+                    array_value {
+                      value {
+                        string_value {
+                          value: "\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377"
+                        }
+                      }
+                      value {
+                        array_value {
+                          value {
+                            array_value {
+                              value {
+                                array_value {
+                                  value {
+                                    string_value {
+                                      value: ""
+                                    }
+                                  }
+                                  value {
+                                    array_value {
+                                      value {
+                                        string_value {
+                                          value: "\001\000\000\020"
+                                        }
+                                      }
+                                      value {
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                              value {
+                                string_value {
+                                  value: "("
+                                }
+                              }
+                            }
+                          }
+                          value {
+                            string_value {
+                              value: "Sfixed"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                  value {
+                    string_value {
+                      value: "("
+                    }
+                  }
+                  value {
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      value {
+        string_value {
+          value: ""
+        }
+      }
+    }
+  }
+}

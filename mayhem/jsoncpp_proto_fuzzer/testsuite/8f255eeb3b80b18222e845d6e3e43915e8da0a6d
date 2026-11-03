@@ -1,0 +1,24 @@
+settings: 0
+object_value {
+  settings: 4
+  name: "&\\n      value: true]n    }\\n  }\\n}\\n\"\n  value"
+  value {
+    array_value {
+      value {
+        string_value {
+          value: "&\\n     \'valualue"
+        }
+      }
+      value {
+        string_value {
+          value: "&\\n     \'vadualue"
+        }
+      }
+      value {
+        string_value {
+          value: "&\\n     \'vadualue"
+        }
+      }
+    }
+  }
+}

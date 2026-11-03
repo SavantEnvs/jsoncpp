@@ -1,0 +1,10 @@
+settings: 4
+object_value {
+  settings: 0
+  name: ""
+  value {
+    string_value {
+      value: "\"t"
+    }
+  }
+}

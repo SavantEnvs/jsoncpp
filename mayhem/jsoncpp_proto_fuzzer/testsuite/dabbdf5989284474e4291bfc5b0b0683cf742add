@@ -1,0 +1,13 @@
+settings: 11
+object_value {
+  settings: 4
+  name: ""
+  value {
+    object_value {
+      settings: 0
+      name: "&5\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\"\n  value {\n    object_value {\n      settings: 4\n      name: \"\"\n      value {\n        object_value {\n          setame:tings: 0\n          name: \"\"\n          value {\n          }\n        }\n     "
+      value {
+      }
+    }
+  }
+}

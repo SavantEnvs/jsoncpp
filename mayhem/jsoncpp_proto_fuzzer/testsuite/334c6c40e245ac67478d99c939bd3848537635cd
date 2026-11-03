@@ -1,0 +1,119 @@
+settings: 4
+object_value {
+  settings: 0
+  name: ""
+  value {
+    object_value {
+      settings: 0
+      name: "%"
+      value {
+        array_value {
+          value {
+            array_value {
+              value {
+                object_value {
+                  settings: 0
+                  name: "%"
+                  value {
+                    array_value {
+                      value {
+                        string_value {
+                          value: ""
+                        }
+                      }
+                      value {
+                        array_value {
+                          value {
+                            string_value {
+                              value: ""
+                            }
+                          }
+                          value {
+                            array_value {
+                              value {
+                                string_value {
+                                  value: ""
+                                }
+                              }
+                              value {
+                              }
+                              value {
+                                string_value {
+                                  value: ""
+                                }
+                              }
+                            }
+                          }
+                          value {
+                            string_value {
+                              value: ""
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                    string_value {
+                      value: ""
+                    }
+                  }
+                  value {
+                    array_value {
+                      value {
+                        string_value {
+                          value: ""
+                        }
+                      }
+                      value {
+                        string_value {
+                          value: "\340\340\340\340\340\340\340\340\340\340\340\340\340\340\340\340\340\340\340\340\340\340\340\340\340"
+                        }
+                      }
+                      value {
+                        string_value {
+                          value: "allowDroppedNullPl"
+                        }
+                      }
+                      value {
+                        string_value {
+                          value: "["
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+              value {
+              }
+              value {
+                object_value {
+                  settings: 0
+                  name: "%"
+                  value {
+                    string_value {
+                      value: "allowNumericKeys"
+                    }
+                  }
+                }
+              }
+              value {
+                string_value {
+                  value: "%"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

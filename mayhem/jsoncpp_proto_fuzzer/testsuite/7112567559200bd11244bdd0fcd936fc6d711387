@@ -1,0 +1,55 @@
+settings: -83886081
+object_value {
+  settings: 3
+  name: ""
+  value {
+    object_value {
+      settings: 0
+      name: ""
+      value {
+        array_value {
+          value {
+          }
+          value {
+            object_value {
+              settings: 0
+              name: "v"
+              value {
+                object_value {
+                  settings: 4
+                  name: "failIfExtra"
+                  value {
+                    object_value {
+                      settings: 4
+                      name: "&"
+                      value {
+                        object_value {
+                          settings: 3
+                          name: ""
+                          value {
+                            object_value {
+                              settings: 0
+                              name: ""
+                              value {
+                                object_value {
+                                  settings: 3
+                                  name: ""
+                                  value {
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+settings: 16777090
+object_value {
+  settings: 32772
+  name: ""
+  value {
+    array_value {
+      value {
+        array_value {
+          value {
+            object_value {
+              settings: 0
+              name: ""
+              value {
+              }
+            }
+          }
+          value {
+          }
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                    boolean_value {
+                      value: true
+                    }
+                  }
+                }
+              }
+              value {
+              }
+            }
+          }
+        }
+      }
+      value {
+        array_value {
+          value {
+          }
+          value {
+          }
+        }
+      }
+      value {
+      }
+      value {
+        array_value {
+          value {
+          }
+          value {
+          }
+          value {
+          }
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                  }
+                  value {
+                  }
+                  value {
+                    string_value {
+                      value: "&_value {\n  settings: 4\n  name: \"A\\205\\205\\\\202505\\205\\205\\205\\205\\205\\205\\205\\205\\205\\205\\2205\\205\\205\\205\\205\\205\\205\\205lue {\n Sfixedettings: 4\n      name: \"\"\n      value {\n        object_value {\n  "
+                    }
+                  }
+                  value {
+                    array_value {
+                      value {
+                        array_value {
+                          value {
+                          }
+                          value {
+                            string_value {
+                              value: "//\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306\306"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+              value {
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

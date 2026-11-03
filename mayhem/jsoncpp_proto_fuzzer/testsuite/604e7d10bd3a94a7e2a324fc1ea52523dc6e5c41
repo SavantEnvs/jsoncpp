@@ -1,0 +1,98 @@
+settings: 262144
+object_value {
+  settings: 989855744
+  name: ""
+  value {
+    array_value {
+      value {
+      }
+      value {
+        object_value {
+          settings: 4
+          name: ""
+          value {
+            array_value {
+              value {
+                array_value {
+                  value {
+                    string_value {
+                      value: ":"
+                    }
+                  }
+                  value {
+                    object_value {
+                      settings: 989855744
+                      name: ""
+                      value {
+                        array_value {
+                          value {
+                            array_value {
+                              value {
+                                array_value {
+                                  value {
+                                  }
+                                  value {
+                                    object_value {
+                                      settings: 989855744
+                                      name: ""
+                                      value {
+                                        array_value {
+                                          value {
+                                            array_value {
+                                            }
+                                          }
+                                          value {
+                                            object_value {
+                                              settings: 989855744
+                                              name: ""
+                                              value {
+                                                array_value {
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                              value {
+                                object_value {
+                                  settings: 989855744
+                                  name: ""
+                                  value {
+                                    boolean_value {
+                                      value: true
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                          value {
+                            string_value {
+                              value: ""
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+              value {
+                object_value {
+                  settings: 1073741824
+                  name: ""
+                  value {
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

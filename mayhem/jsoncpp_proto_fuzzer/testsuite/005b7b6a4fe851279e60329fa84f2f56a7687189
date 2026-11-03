@@ -1,0 +1,102 @@
+settings: 16777090
+object_value {
+  settings: 0
+  name: ""
+  value {
+    array_value {
+      value {
+        object_value {
+          settings: 0
+          name: ""
+          value {
+            array_value {
+              value {
+                boolean_value {
+                  value: true
+                }
+              }
+              value {
+                array_value {
+                  value {
+                    array_value {
+                      value {
+                        number_value {
+                          integer_value {
+                            value: 16777216
+                          }
+                        }
+                      }
+                      value {
+                      }
+                      value {
+                        number_value {
+                          integer_value {
+                            value: 16777216
+                          }
+                        }
+                      }
+                      value {
+                        number_value {
+                          integer_value {
+                            value: 16777216
+                          }
+                        }
+                      }
+                    }
+                  }
+                  value {
+                    number_value {
+                      integer_value {
+                        value: 16777216
+                      }
+                    }
+                  }
+                }
+              }
+              value {
+                number_value {
+                  integer_value {
+                    value: 16777216
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      value {
+        array_value {
+          value {
+            array_value {
+              value {
+              }
+              value {
+                number_value {
+                  integer_value {
+                    value: 16777216
+                  }
+                }
+              }
+              value {
+                number_value {
+                  integer_value {
+                    value: 16777216
+                  }
+                }
+              }
+            }
+          }
+          value {
+            number_value {
+              integer_value {
+                value: 16777216
+              }
+            }
+          }
+        }
+      }
+      value {
+      }
+    }
+  }
+}

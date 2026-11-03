@@ -1,0 +1,55 @@
+settings: 4
+object_value {
+  settings: 0
+  name: "&"
+  value {
+    array_value {
+      value {
+        number_value {
+          integer_value {
+            value: 0
+          }
+          exponent_value {
+            base: -2130706432
+            exponent: 4096
+            use_uppercase: true
+          }
+        }
+      }
+      value {
+        array_value {
+          value {
+            number_value {
+              integer_value {
+                value: 0
+              }
+              exponent_value {
+                base: -2130706432
+                exponent: 4096
+                use_uppercase: true
+              }
+            }
+          }
+          value {
+            array_value {
+            }
+          }
+          value {
+          }
+        }
+      }
+      value {
+        number_value {
+          integer_value {
+            value: 0
+          }
+          exponent_value {
+            base: -2130706432
+            exponent: 4096
+            use_uppercase: true
+          }
+        }
+      }
+    }
+  }
+}
