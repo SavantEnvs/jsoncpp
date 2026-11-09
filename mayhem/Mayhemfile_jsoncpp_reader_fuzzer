@@ -1,0 +1,7 @@
+project: savantenvs/jsoncpp
+target: jsoncpp_reader_fuzzer-mined-02e903a
+# seed-from: https://app.mayhem.security/savantenvs/jsoncpp/jsoncpp-fuzzer
+cmds:
+  - cmd: /mayhem/jsoncpp_reader_fuzzer
+    libfuzzer: true
+    timeout: 5
