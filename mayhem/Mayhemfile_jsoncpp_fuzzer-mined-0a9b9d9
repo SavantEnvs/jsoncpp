@@ -1,0 +1,10 @@
+project: savantenvs/jsoncpp
+target: jsoncpp_fuzzer-mined-0a9b9d9
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/jsoncpp_fuzzer-mined-0a9b9d9/testsuite
+cmds:
+  - cmd: /mayhem/jsoncpp_fuzzer
+    libfuzzer: true
+    dictionary: /mayhem/src/test_lib_json/fuzz.dict
+    timeout: 5
